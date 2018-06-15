@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MusicalStructure</string>
+
+    <!--Activity Names-->
+    <string name="activity_play">Now Playing</string>
+    <string name="activity_main">All Songs</string>
+
+    <!--Button text-->
+    <string name="button_play">Play</string>
+    <string name="button_pause">Pause</string>
+
+</resources>
